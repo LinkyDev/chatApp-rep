@@ -1,0 +1,16 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_chatapp"
+  },
+  "author": "Omer David Sivan",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
